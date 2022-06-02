@@ -1,0 +1,17 @@
+/Users/gunelhesenova/Projects/First-practice/First-practice/bin/Release/netcoreapp3.1/appsettings.Development.json
+/Users/gunelhesenova/Projects/First-practice/First-practice/bin/Release/netcoreapp3.1/appsettings.json
+/Users/gunelhesenova/Projects/First-practice/First-practice/bin/Release/netcoreapp3.1/First-practice.deps.json
+/Users/gunelhesenova/Projects/First-practice/First-practice/bin/Release/netcoreapp3.1/First-practice.runtimeconfig.json
+/Users/gunelhesenova/Projects/First-practice/First-practice/bin/Release/netcoreapp3.1/First-practice.runtimeconfig.dev.json
+/Users/gunelhesenova/Projects/First-practice/First-practice/bin/Release/netcoreapp3.1/First-practice.dll
+/Users/gunelhesenova/Projects/First-practice/First-practice/bin/Release/netcoreapp3.1/First-practice.pdb
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.AssemblyInfoInputs.cache
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.AssemblyInfo.cs
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.csproj.CoreCompileInputs.cache
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.MvcApplicationPartsAssemblyInfo.cache
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/staticwebassets/First-practice.StaticWebAssets.Manifest.cache
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.RazorTargetAssemblyInfo.cache
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.dll
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.pdb
+/Users/gunelhesenova/Projects/First-practice/First-practice/obj/Release/netcoreapp3.1/First-practice.genruntimeconfig.cache
